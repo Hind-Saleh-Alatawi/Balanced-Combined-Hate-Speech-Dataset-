@@ -5,5 +5,6 @@ A combined dataset of three available datasets:
 to assess the model performance on the largest possible diverse dataset that is balanced according to the lowest class number
 by randomly selecting a similar number of examples for each class and the number of classes specified according to the lowest class in the combined dataset. 
 The dataset combining offers us a hugely diverse set of data to assess the deep model performance as it is known that deep models perform better on large training data.
-Please read https://www.tandfonline.com/doi/epdf/10.1080/08839514.2023.2166719?needAccess=true&role=button
+Please read
+https://www.tandfonline.com/doi/full/10.1080/08839514.2023.2166719
 for extra details.
